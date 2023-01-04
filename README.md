@@ -1,6 +1,6 @@
 # Tarea5
 
-![image](https://user-images.githubusercontent.com/117800753/210482516-760350d4-7e39-449f-90ab-16348258451b.png)4
+![image](https://user-images.githubusercontent.com/117800753/210482516-760350d4-7e39-449f-90ab-16348258451b.png)
 
 Fecha: 03/01/2023
 
